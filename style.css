@@ -23,6 +23,11 @@ main {
   width: 100%;
 }
 
+h1 {
+  color: #fff;
+  font-size: 2em;
+}
+
 h2 {
   color: #fff;
   text-align: center;
@@ -136,8 +141,8 @@ h2 {
   line-height: 1.5rem;
 }
 
-header {
-  margin: 0 auto;
+#octocat {
+  align-items: flex-start;
 }
 
 footer {
