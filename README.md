@@ -8,4 +8,9 @@
 
 [7-days-of-code-github.vercel.app](https://7-days-of-code-github.vercel.app/)
 
+<<<<<<< HEAD
 ### Ana Maria Silva | github.com/anamariasilva
+=======
+#### Ana Maria Silva | github.com/anamariasilva
+
+>>>>>>> a95424a810718e7e922548ac1b42417cbeef080a
