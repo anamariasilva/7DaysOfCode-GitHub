@@ -1,4 +1,4 @@
-## 7 Days of Code - GitHub da Alura
+## 7 Days of Code - GitHub e Alura
 
 Projeto criado no 7 Days Of Code GitHub e Alura.
 
@@ -32,5 +32,9 @@ Projeto 7 Days Of Code da Alura com 7 desafios de GitHub.
 ## Deploy na Vercel:
 
 [7-days-of-code-github.vercel.app](https://7-days-of-code-github.vercel.app/)
+
+### Adesivos GitHub e Alura
+
+![](https://www.anamaria.dev.br/github/7daysofcode-aluraegithub.jpg)
 
 #### Ana Maria Silva | [github.com/anamariasilva](https://github.com/anamariasilva)
