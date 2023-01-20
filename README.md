@@ -1,5 +1,7 @@
 ## 7 Days of Code - GitHub da Alura
 
+Projeto criado no 7 Days Of Code GitHub e Alura.
+
 | :placard: Vitrine.Dev |                                                |
 | --------------------- | ---------------------------------------------- |
 | :sparkles: Nome       | **7 Days of Code - GitHub da Alura**           |
