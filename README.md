@@ -4,7 +4,7 @@ Projeto criado no 7 Days Of Code GitHub e Alura.
 
 | :placard: Vitrine.Dev |                                                |
 | --------------------- | ---------------------------------------------- |
-| :sparkles: Nome       | **7 Days of Code - GitHub da Alura**           |
+| :sparkles: Nome       | **7 Days of Code - GitHub e Alura**            |
 | :label: Tecnologias   | HTML, CSS, JavaScript (tecnologias utilizadas) |
 | :rocket: URL          | https://7-days-of-code-github.vercel.app/      |
 | :fire: Desafio        | https://7daysofcode.io/                        |
