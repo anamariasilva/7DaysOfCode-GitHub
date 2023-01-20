@@ -25,15 +25,17 @@ Projeto 7 Days Of Code da Alura com 7 desafios de GitHub.
 - 6/7: 👩🏽‍💻 Resolvendo um conflito
 - 7/7: Fazendo o deploy no GitHub Pages
 
-## Projeto no GitHub Pages:
+## Projeto no GitHub Pages
 
 [anamariasilva.github.io/7DaysOfCode-GitHub](https://anamariasilva.github.io/7DaysOfCode-GitHub/)
 
-## Deploy na Vercel:
+## Deploy na Vercel
 
 [7-days-of-code-github.vercel.app](https://7-days-of-code-github.vercel.app/)
 
-### Adesivos GitHub e Alura
+## Adesivos GitHub e Alura
+
+Adesivos recebidos ao ter concluído os 7 dias de desafio.
 
 ![](https://www.anamaria.dev.br/github/7daysofcode-aluraegithub.jpg)
 
